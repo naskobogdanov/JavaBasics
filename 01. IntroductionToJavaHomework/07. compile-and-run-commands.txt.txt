@@ -1,0 +1,6 @@
+While terminal opened in the directory.
+Commands used:
+javac SumTwoNumbers.java
+java SumTwoNumbers
+
+The program works fine.

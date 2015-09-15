@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/01. SymmetricNumbersInRange/01. SymmetricNumbersInRange.iml" filepath="$PROJECT_DIR$/01. SymmetricNumbersInRange/01. SymmetricNumbersInRange.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02. Generate3-LetterWords/02. Generate3-LetterWords.iml" filepath="$PROJECT_DIR$/02. Generate3-LetterWords/02. Generate3-LetterWords.iml" />
+      <module fileurl="file://$PROJECT_DIR$/03. FullHouse/03. FullHouse.iml" filepath="$PROJECT_DIR$/03. FullHouse/03. FullHouse.iml" />
+      <module fileurl="file://$PROJECT_DIR$/05. AngleUnitConverter/05. AngleUnitConverter.iml" filepath="$PROJECT_DIR$/05. AngleUnitConverter/05. AngleUnitConverter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/06. RandomHandsOf5Cards/06. RandomHandsOf5Cards.iml" filepath="$PROJECT_DIR$/06. RandomHandsOf5Cards/06. RandomHandsOf5Cards.iml" />
+      <module fileurl="file://$PROJECT_DIR$/07. DaysBetweenTwoDates/07. DaysBetweenTwoDates.iml" filepath="$PROJECT_DIR$/07. DaysBetweenTwoDates/07. DaysBetweenTwoDates.iml" />
+      <module fileurl="file://$PROJECT_DIR$/08. SumNumbersFromATextFile/08. SumNumbersFromATextFile.iml" filepath="$PROJECT_DIR$/08. SumNumbersFromATextFile/08. SumNumbersFromATextFile.iml" />
+      <module fileurl="file://$PROJECT_DIR$/09. ListOfProducts/09. ListOfProducts.iml" filepath="$PROJECT_DIR$/09. ListOfProducts/09. ListOfProducts.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Loops, Methods, Classes.iml" filepath="$PROJECT_DIR$/Loops, Methods, Classes.iml" />
+    </modules>
+  </component>
+</project>

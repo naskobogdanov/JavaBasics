@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/01. SortArrayOfNumbers/01. SortArrayOfNumbers.iml" filepath="$PROJECT_DIR$/01. SortArrayOfNumbers/01. SortArrayOfNumbers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02. SequencesОfEqualStrings/02. SequencesОfEqualStrings.iml" filepath="$PROJECT_DIR$/02. SequencesОfEqualStrings/02. SequencesОfEqualStrings.iml" />
+      <module fileurl="file://$PROJECT_DIR$/03. LargestSequenceОfEqualStrings/03. LargestSequenceОfEqualStrings.iml" filepath="$PROJECT_DIR$/03. LargestSequenceОfEqualStrings/03. LargestSequenceОfEqualStrings.iml" />
+      <module fileurl="file://$PROJECT_DIR$/04. LongestIncreasingSequence/04. LongestIncreasingSequence.iml" filepath="$PROJECT_DIR$/04. LongestIncreasingSequence/04. LongestIncreasingSequence.iml" />
+      <module fileurl="file://$PROJECT_DIR$/05. CountAllWords/05. CountAllWords.iml" filepath="$PROJECT_DIR$/05. CountAllWords/05. CountAllWords.iml" />
+      <module fileurl="file://$PROJECT_DIR$/06. CountSpecifiedWord/06. CountSpecifiedWord.iml" filepath="$PROJECT_DIR$/06. CountSpecifiedWord/06. CountSpecifiedWord.iml" />
+      <module fileurl="file://$PROJECT_DIR$/07. CountSubstringOccurrences/07. CountSubstringOccurrences.iml" filepath="$PROJECT_DIR$/07. CountSubstringOccurrences/07. CountSubstringOccurrences.iml" />
+      <module fileurl="file://$PROJECT_DIR$/08. ExtractEmails/08. ExtractEmails.iml" filepath="$PROJECT_DIR$/08. ExtractEmails/08. ExtractEmails.iml" />
+      <module fileurl="file://$PROJECT_DIR$/09. CombineListsOfLetters/09. CombineListsOfLetters.iml" filepath="$PROJECT_DIR$/09. CombineListsOfLetters/09. CombineListsOfLetters.iml" />
+      <module fileurl="file://$PROJECT_DIR$/10. ExtractAllUniqueWords/10. ExtractAllUniqueWords.iml" filepath="$PROJECT_DIR$/10. ExtractAllUniqueWords/10. ExtractAllUniqueWords.iml" />
+      <module fileurl="file://$PROJECT_DIR$/11. MostFrequentWord/11. MostFrequentWord.iml" filepath="$PROJECT_DIR$/11. MostFrequentWord/11. MostFrequentWord.iml" />
+      <module fileurl="file://$PROJECT_DIR$/12. CardsFrequencies/12. CardsFrequencies.iml" filepath="$PROJECT_DIR$/12. CardsFrequencies/12. CardsFrequencies.iml" />
+      <module fileurl="file://$PROJECT_DIR$/14. StuckNumbers/14. StuckNumbers.iml" filepath="$PROJECT_DIR$/14. StuckNumbers/14. StuckNumbers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/15. SumCards/15. SumCards.iml" filepath="$PROJECT_DIR$/15. SumCards/15. SumCards.iml" />
+      <module fileurl="file://$PROJECT_DIR$/16. SimpleExpression/16. SimpleExpression.iml" filepath="$PROJECT_DIR$/16. SimpleExpression/16. SimpleExpression.iml" />
+      <module fileurl="file://$PROJECT_DIR$/17. LogsAggregator/17. LogsAggregator.iml" filepath="$PROJECT_DIR$/17. LogsAggregator/17. LogsAggregator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaCollectionsBasics.iml" filepath="$PROJECT_DIR$/JavaCollectionsBasics.iml" />
+    </modules>
+  </component>
+</project>

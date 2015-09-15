@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/01. RectangleArea/01. RectangleArea.iml" filepath="$PROJECT_DIR$/01. RectangleArea/01. RectangleArea.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02. TriangleArea/02. TriangleArea.iml" filepath="$PROJECT_DIR$/02. TriangleArea/02. TriangleArea.iml" />
+      <module fileurl="file://$PROJECT_DIR$/03. PointsInsideAFigure/03. PointsInsideAFigure.iml" filepath="$PROJECT_DIR$/03. PointsInsideAFigure/03. PointsInsideAFigure.iml" />
+      <module fileurl="file://$PROJECT_DIR$/04. TheSmallestof3Numbers/04. TheSmallestof3Numbers.iml" filepath="$PROJECT_DIR$/04. TheSmallestof3Numbers/04. TheSmallestof3Numbers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/05. DecimalToHexadecimal/05. DecimalToHexadecimal.iml" filepath="$PROJECT_DIR$/05. DecimalToHexadecimal/05. DecimalToHexadecimal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/06. FormattingNumbers/06. FormattingNumbers.iml" filepath="$PROJECT_DIR$/06. FormattingNumbers/06. FormattingNumbers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/07. CountOfBitsOne/07. CountOfBitsOne.iml" filepath="$PROJECT_DIR$/07. CountOfBitsOne/07. CountOfBitsOne.iml" />
+      <module fileurl="file://$PROJECT_DIR$/08. Count0fEqualBitPairs/08. Count0fEqualBitPairs.iml" filepath="$PROJECT_DIR$/08. Count0fEqualBitPairs/08. Count0fEqualBitPairs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/09. PointsInsideTheHouse/09. PointsInsideTheHouse.iml" filepath="$PROJECT_DIR$/09. PointsInsideTheHouse/09. PointsInsideTheHouse.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java Syntax.iml" filepath="$PROJECT_DIR$/Java Syntax.iml" />
+    </modules>
+  </component>
+</project>
